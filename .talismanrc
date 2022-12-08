@@ -7,4 +7,6 @@ fileignoreconfig:
   checksum: 041cf7d5ba27c545cf1b76277d0c293431fcbe4d389b0e4025fb6182a6cbe523
 - filename: .github/actions/prep/entrypoint.sh
   checksum: 1b8618d11501a9f2e6f3beaa1a2deb2c0234ca9db85fd4bf5a858e37e5fd0761
+- filename: env_secrets
+  checksum: 7de3f0f83362e6d66c27cdbf4b47a1645defd5de07e0985480594758d4040c87
 version: ""
