@@ -1,4 +1,10 @@
 fileignoreconfig:
 - filename: danger.pem
   checksum: a18e160309f19f407f1a5a8a5273336d496a65ca12f828a7af95deaadff54101
+- filename: .github/workflows/lint_test.yml
+  checksum: f6b2ebc3233ac0171369d39b896b5584ec0f577dd0d1cc0b79caa645bcda53fe
+- filename: docker-compose.yml
+  checksum: 041cf7d5ba27c545cf1b76277d0c293431fcbe4d389b0e4025fb6182a6cbe523
+- filename: .github/actions/prep/entrypoint.sh
+  checksum: 1b8618d11501a9f2e6f3beaa1a2deb2c0234ca9db85fd4bf5a858e37e5fd0761
 version: ""
